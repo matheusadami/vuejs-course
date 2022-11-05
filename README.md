@@ -16,9 +16,6 @@ npm run serve-api
   <img src="https://br.vuejs.org/images/logo.png" alt="VueJS"/>
 </p>
 
-<br/>
-<br/>
-
 <p align="center">
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.ed60a6f85c663923c4d6ee9d85f359cd.svg" alt="TailwindCSS"/>
 </p>
